@@ -552,7 +552,7 @@ sudo apt update && sudo apt install -y jq
 ### **Dhinesh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dhinesh--0309-181717?style=for-the-badge&logo=github)](https://github.com/Dhinesh-0309)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhinesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pandian0114)
 
 📧 **Email**: pandian0114@gmail.com  
 🌐 **Linkedin**: https://www.linkedin.com/in/pandian0114/
@@ -571,7 +571,7 @@ This project is created for educational purposes as part of the DevOps Intern As
 
 ---
 
-### ⭐ If you found this helpful, please consider giving it a star!
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
