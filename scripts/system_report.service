@@ -1,0 +1,11 @@
+[Unit]
+Description=System Report Service
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/system_report.sh
+User=root
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,9 @@
+# Cron entry to run system_report.sh every 5 minutes
+# To use: copy this file to /etc/cron.d/system_report on the EC2 server
+#
+# Example:
+#   sudo cp config/cron.txt /etc/cron.d/system_report
+#
+# This will ONLY run if systemd timer is disabled.
+
+*/5 * * * * root /usr/local/bin/system_report.sh >> /var/log/system_report.log 2>&1
