@@ -99,7 +99,7 @@ This repository contains a complete solution for the DevOps Intern Assignment, d
 ## 📁 Repository Structure
 
 ```
-devops-intern-assignment/
+powerplay/
 ├── README.md
 ├── screenshots/
 │   ├── PART_01.png              # System setup verification
@@ -199,8 +199,8 @@ devops-intern-assignment/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Dhinesh-0309/devops-intern-assignment.git
-cd devops-intern-assignment
+git clone https://github.com/Dhinesh-0309/powerplay.git
+cd powerplay
 ```
 
 </td>
